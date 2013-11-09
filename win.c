@@ -1,7 +1,7 @@
 /*
 gcc -Wall -g -o win win.c `pkg-config --cflags gtk+-2.0` `pkg-config --libs gtk+-2.0` &&./win
 */
-#inclugcc -Wall -g -o win win.c `pkg-config --cflags gtk+-2.0` `pkg-config --libs gtk+-2.0` &&./winde<gtk/gtk.h>
+#include<gtk/gtk.h>
 
 	//定义2个输入控件指针变量
 	
